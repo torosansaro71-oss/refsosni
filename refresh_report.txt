@@ -1,0 +1,42 @@
+=== Roblox Cookie Refresh Report ===
+Total: 9
+Success: 9
+Failed: 0
+========================================
+
+Username: Marximuz
+Status: success
+---
+
+Username: Andoni009
+Status: success
+---
+
+Username: SimonD333
+Status: success
+---
+
+Username: foxypirate13189
+Status: success
+---
+
+Username: chu_4452
+Status: success
+---
+
+Username: Void_KRXZY
+Status: success
+---
+
+Username: Jackliz2013
+Status: success
+---
+
+Username: he_wholarps
+Status: success
+---
+
+Username: AAubreyGamez
+Status: success
+---
+
